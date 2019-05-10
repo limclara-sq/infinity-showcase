@@ -230,9 +230,11 @@ a:active {
 
     }
 
-    #setup .img-responsive {
-      display: inline-block;
-    }
+    #setup .center-block {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+      }
 
     #setup h1 {
       /*font-size: 100%;*/
